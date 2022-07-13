@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.page{
+    border: 2px solid black;
+    width: 600;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 30px;
+}
